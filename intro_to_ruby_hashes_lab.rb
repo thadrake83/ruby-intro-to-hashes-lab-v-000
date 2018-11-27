@@ -4,8 +4,8 @@ hash
 end
 
 def actor
-hash = {name: "Dwayne The Rock Johnson"}
-hash[:name]
+actor = {name: "Dwayne The Rock Johnson"}
+actor[:name]
 end
 
 def monopoly
